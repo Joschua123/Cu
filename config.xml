@@ -1,0 +1,22 @@
+		<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		xmlns:android = "http://schemas.android.com/apk/res/android"
+		id        = "com.rezendejoschua.rezende"
+		versionCode=""
+		version   = "1.0.0">
+		<name>Joschua Rezende		</name>
+		<description>aplicativo		</description>
+		<author href="" email="joschuarezende@gmail.com">Joschua		</author>
+		<feature name="http://api.phonegap.com/1.0/network" />
+		<feature name="http://api.phonegap.com/1.0/notification" />
+		<preference name="phonegap-version" value="cli-6.3.0" />
+
+		<platform name="ios">
+		</platform>
+		<platform name="android">
+		</platform>
+		<platform name="winphone">
+		</platform>
+		 <icon src="icon.png" />
+		</widget>
